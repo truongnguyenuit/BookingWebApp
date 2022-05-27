@@ -1,0 +1,46 @@
+.header {
+    background-color:#003580;
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.headerContainer {
+    width:  100%;
+    max-width: 1024px;
+    margin: 20px 0px 100px 0px;
+}
+.headerList {
+    display: flex;
+    gap: 40px;
+    margin-bottom: 50px;
+}
+.headerListItem {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.headerTitle {
+    font-weight: bolder;
+}
+.headerDesc {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.headerBtn {
+    background-color: #0071c2;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    cursor: pointer
+}
+.headerSearch {
+    display: flex;
+    height: 30px;
+    background-color: white;
+    border: 3px solid #febb02;
+    align-items: center;
+    ali
+    
+}

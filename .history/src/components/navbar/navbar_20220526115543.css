@@ -1,0 +1,6 @@
+.navbar {
+    height: 50px;
+    background-color: #FF8C00;
+    display: flex;
+    justify-content: center;
+}

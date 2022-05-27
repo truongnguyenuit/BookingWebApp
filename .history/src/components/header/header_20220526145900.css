@@ -1,0 +1,10 @@
+.header {
+    background-color:aqua;
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.headerContainer {
+    width: : 100;
+}

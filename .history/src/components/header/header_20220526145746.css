@@ -1,0 +1,6 @@
+.header {
+    background-color:aqua;
+    color: white;
+    display: flex;
+    justify-content: center;
+}

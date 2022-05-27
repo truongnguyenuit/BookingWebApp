@@ -1,0 +1,12 @@
+.header {
+    background-color:aqua;
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.headerContainer {
+    width:  100%;
+    max-width: 1024px;
+    margin: 20px 0px 1000px 0px;
+}
