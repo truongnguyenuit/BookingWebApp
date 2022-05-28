@@ -1,0 +1,17 @@
+.plist {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 1024px;
+    gap: 20px;
+}
+
+.pListItem {
+    height: 199px;
+    
+}
+.pListImg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

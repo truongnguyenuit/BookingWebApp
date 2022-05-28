@@ -1,0 +1,12 @@
+.fp {
+    display: flex;
+    gap: 20px;
+}
+.fpItem {
+    flex: 1;
+}
+.fpImg {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+}

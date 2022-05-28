@@ -1,0 +1,23 @@
+.fp {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    max-width: 1024px;
+}
+.fpItem {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 10px;
+}
+.fpImg {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+}
+.fpName {
+    font-weight:900;
+}
+.fpPrice {
+
+}
