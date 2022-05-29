@@ -1,0 +1,16 @@
+.footer {
+  width: 100%;
+  max-width: 1024px;
+}
+.fLists {
+  display: flex;
+  flex-direction: row;
+}
+.fList {
+  list-style: none;
+  display: flex;
+  fl
+}
+.fListItem {
+  color: #003580;
+}
