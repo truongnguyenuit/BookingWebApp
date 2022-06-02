@@ -1,0 +1,17 @@
+.hotelContainer {
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  margin-top: 20px;
+}
+.hotelWrapper {
+  width: 100%;
+  max-width: 1024px;
+}
+.hotelWrapper {
+
+}
+.hotelImg {
+  width: 100%;
+  object-fit: cover;
+}

@@ -1,0 +1,45 @@
+.hotelContainer {
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  margin-top: 20px;
+}
+.hotelWrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1024px;
+  position: relative;
+  gap: 10px;
+}
+.hotelAddress {
+  display: flex;
+  gap: 10px;
+  font-weight: bold;
+}
+.hotelDistance {
+  
+}
+.bookNow {
+  position: absolute;
+  top: 10px;
+  right: 0;
+  background-color: #0071c2;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  font-weight: bold;
+  color: white
+}
+.hotelImages {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.hotelImgWrapper {
+  width: 33%;
+}
+.hotelImg {
+  width: 100%;
+  object-fit: cover;
+}

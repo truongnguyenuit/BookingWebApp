@@ -1,0 +1,27 @@
+.hotelContainer {
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  margin-top: 20px;
+}
+.hotelWrapper {
+  width: 100%;
+  max-width: 1024px;
+  position: relative;
+}
+.bookNow {
+  position: absolute;
+  
+}
+.hotelImages {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.hotelImgWrapper {
+  width: 33%;
+}
+.hotelImg {
+  width: 100%;
+  object-fit: cover;
+}
