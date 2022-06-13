@@ -1,0 +1,12 @@
+.searchItem {
+  display: flex;
+  flex-direction: row;
+  border-width: 1px;
+  padding: 5px
+
+}
+.siImg {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}

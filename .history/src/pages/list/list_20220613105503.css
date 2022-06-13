@@ -1,0 +1,12 @@
+.listWrapper {
+  display: flex;
+}
+
+
+
+
+.listSearch {
+  background-color: orange;
+  display: flex;
+  flex-direction: column;
+}

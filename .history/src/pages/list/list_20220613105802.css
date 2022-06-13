@@ -1,0 +1,20 @@
+.listContainer {
+
+}
+
+
+.listWrapper {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  max-width: 1024;
+}
+
+
+
+
+.listSearch {
+  background-color: orange;
+  display: flex;
+  flex-direction: column;
+}

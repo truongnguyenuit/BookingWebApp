@@ -1,0 +1,9 @@
+.searchItem {
+  display: flex;
+  flex-direction: row;
+  border-width: 1px;
+
+}
+.siImg {
+  width: 100;
+}
